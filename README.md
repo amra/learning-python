@@ -12,5 +12,8 @@ print function: https://www.w3schools.com/python/ref_func_print.asp
 execute the script: https://askubuntu.com/questions/244378/running-python-file-in-terminal
  
 ## Task 02 - Read file
-Read file and count lines.
+Read file and output the first row on the screen.
+
+## Task 03 - Count lines
+Read file and print count of all lines in the file.
 
