@@ -16,3 +16,7 @@ Read file `./files/everything-is-awesome.txt` and output the first row on the sc
 
 ## Task 03 - Count lines
 Read file `./files/everything-is-awesome.txt` and print count of all lines in the file.
+
+<!--
+https://raw.githubusercontent.com/zhiwehu/Python-programming-exercises/master/100%2B%20Python%20challenging%20programming%20exercises.txt
+-->
