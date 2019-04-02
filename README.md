@@ -5,14 +5,17 @@ Tasks for colleges to learn python
 ## Editor
 Edit your code in editor like PyCharm (Community edition) or IntelliJ Idea (Community edition) because of context documentation and code completion.  
 
-Code completion. Shortcut `ctrl + space`.
+*Code completion*. Shortcut `ctrl + space`.
 
 ![](./images/pycharm-completion-default.png)
 
-Context documentation. Shortcut `ctrl + q`.
+source: https://realpython.com/python-ides-code-editors-guide/
+
+*Context documentation*. Shortcut `ctrl + q`.
 
 ![](./images/pycharm-documentation3.png)
- 
+
+source: https://realpython.com/python-ides-code-editors-guide/ 
 
 ## Git
 Use git to backup and share your project with others. Atlassian company has awesome git explanation: https://www.atlassian.com/git
