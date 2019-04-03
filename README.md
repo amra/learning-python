@@ -1,5 +1,24 @@
-# learning-python
 Tasks for colleges to learn python
+
+<!--ts-->
+   * [Tools](#tools)
+      * [Editor](#editor)
+      * [Git](#git)
+      * [Python](#python)
+         * [Reading exceptions](#reading-exceptions)
+         * [Virtualenv](#virtualenv)
+         * [Pip](#pip)
+   * [Basic](#basic)
+      * [Basic 01 - Hello world](#basic-01---hello-world)
+      * [Basic 02 - Read file](#basic-02---read-file)
+      * [Basic 03 - Count lines](#basic-03---count-lines)
+   * [XML](#xml)
+      * [XML 01 - Find surnames](#xml-01---find-surnames)
+      * [XML 02 - List surnames only](#xml-02---list-surnames-only)
+
+<!-- Added by: amra, at: St dub  3 15:18:44 CEST 2019 -->
+
+<!--te-->
 
 # Tools
 ## Editor
