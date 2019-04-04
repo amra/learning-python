@@ -22,6 +22,14 @@ for line in f:
 print("count: " + str(count))
 ```
 
+## Basic 04 - split string
+```python
+words = "Everything Is AWESOME!!!".split(" ")
+
+for word in words:
+    print(word)
+```
+
 # XML 01 - Find surnames
 In the example replace `'.//record[firstname="John"]'` with `'.//record[surname="Doe"]'`
 

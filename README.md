@@ -117,6 +117,12 @@ Hint:
 - create an integer variable and set it to zero: https://www.w3schools.com/python/python_numbers.asp
 - loop through the line of the file and each increase the variable by one: https://www.w3schools.com/python/python_file_open.asp
 
+## Basic 04 - split string
+Split `Everything Is AWESOME!!!` and print each word on separate line.
+
+Hints:
+- https://www.w3schools.com/python/python_strings.asp
+
 <!--
 ## Task 04 - Split string
 - https://docs.python.org/2/library/stdtypes.html#str.split
