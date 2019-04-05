@@ -30,6 +30,23 @@ for word in words:
     print(word)
 ```
 
+## Basic 05 - regular expressions
+```python
+import re
+
+# Open file and read it.
+f = open("files/everything-is-awesome.txt", "r")
+content = f.read()
+
+# Find all 'is' or 'Is" strings.
+findings = re.findall("[i|I]s", content)
+
+print("count: " + str(len(findings)))
+
+```
+
+Result is `20`.
+
 # XML 01 - Find surnames
 In the example replace `'.//record[firstname="John"]'` with `'.//record[surname="Doe"]'`
 

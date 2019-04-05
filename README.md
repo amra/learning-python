@@ -8,15 +8,21 @@ Tasks for colleges to learn python
          * [Reading exceptions](#reading-exceptions)
          * [Virtualenv](#virtualenv)
          * [Pip](#pip)
+         * [Jupyter Notebook](#jupyter-notebook)
+      * [Python libraries](#python-libraries)
+         * [Pandas](#pandas)
+         * [NumPy](#numpy)
    * [Basic](#basic)
       * [Basic 01 - Hello world](#basic-01---hello-world)
       * [Basic 02 - Read file](#basic-02---read-file)
       * [Basic 03 - Count lines](#basic-03---count-lines)
+      * [Basic 04 - split string](#basic-04---split-string)
+      * [Basic 05 - regex](#basic-05---regex)
    * [XML](#xml)
       * [XML 01 - Find surnames](#xml-01---find-surnames)
       * [XML 02 - List surnames only](#xml-02---list-surnames-only)
 
-<!-- Added by: amra, at: St dub  3 15:18:44 CEST 2019 -->
+<!-- Added by: amra, at: Pá dub  5 18:20:08 CEST 2019 -->
 
 <!--te-->
 
@@ -144,6 +150,21 @@ Split `Everything Is AWESOME!!!` and print each word on separate line.
 
 Hints:
 - https://www.w3schools.com/python/python_strings.asp
+
+## Basic 05 - regex
+Regular expressions are patterns used to match character combinations in strings. 
+
+Read file `./files/everything-is-awesome.txt` and count occurrence of word `is` (ignore case).
+
+Hints:
+- Regular expressions
+  - cz: https://www.regularnivyrazy.info/regularni-vyrazy-zaklady.html
+  - en: https://www.regular-expressions.info/
+- Regular expression tester with syntax highlighting (awesome tool!!!): https://regexr.com/
+- Python regex documentation: https://docs.python.org/3/library/re.html
+- Python & regex in w3schools: https://www.w3schools.com/python/python_regex.asp
+- length of an array: https://www.w3schools.com/python/ref_func_len.asp
+
 
 <!--
 ## Task 04 - Split string
