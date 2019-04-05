@@ -94,6 +94,28 @@ Commands:
 
 TODO
 
+### Jupyter Notebook
+The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain 
+- text (markdown) 
+- live code
+- visualizations
+ 
+There is pretty nice introduction on youtube: 
+- See the first 2:30 minutes from this video: [Jupyter Notebook Tutorial: Introduction, Setup, and Walkthrough](https://www.youtube.com/watch?v=HW29067qVWk) about 
+- [How To Use Jupyter Notebooks](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks-py3) with [youtube video](https://www.youtube.com/watch?v=oJ6z02N0Te0)
+
+## Python libraries
+
+### Pandas
+[Pandas](https://pandas.pydata.org/) is a library for data manipulation and analysis. 
+In particular, it offers data structures and operations for manipulating numerical tables and time series. 
+
+Video of [10-minute tour of pandas](https://vimeo.com/59324550)
+
+### NumPy
+[NumPy](http://www.numpy.org/) is a library adding support for large, multi-dimensional arrays and matrices, 
+along with a large collection of high-level mathematical functions to operate on these arrays.  
+
 # Basic
 ## Basic 01 - Hello world
 
